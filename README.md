@@ -8,7 +8,7 @@ Created as part of CS50 AI's coursework. This AI makes use of knowledge entailme
 
 
 ## Simple step-by-step tutorial
-![instructions](instructions.gif)
+![instructions](AI-instructions.gif)
 1. Run *runner.py*  
 2. Press 'Play Game'
 3. Click on 'AI Move' and let the AI do the work :)
